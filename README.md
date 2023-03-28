@@ -18,6 +18,7 @@
 
 
 ### 4. 테이블 설계
+![image](https://user-images.githubusercontent.com/112357397/228342373-147725ca-0179-4085-82ea-427bf178dbaf.png)
 https://getinthere.notion.site/99ff6dd910fb4a3c984056db01f17bb0
 
 ### 5. 프로젝트 시연영상
